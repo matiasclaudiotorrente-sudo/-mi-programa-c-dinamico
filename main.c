@@ -42,3 +42,4 @@ int main() {
 }
 
 
+printf("Programa finalizado y memoria liberada.\n");
